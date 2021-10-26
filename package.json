@@ -1,0 +1,20 @@
+{
+  "name": "vue-stories",
+  "version": "1.0.0",
+  "description": "Social media like stories and status for web with vue✌️",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "social",
+    "media",
+    "stories"
+  ],
+  "author": "mustafapatharia",
+  "license": "MIT",
+  "dependencies": {
+    "mit-license": "^1.0.0"
+  }
+}
